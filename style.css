@@ -1,0 +1,7 @@
+td,th {
+    border: solid 2px black;
+}
+
+tfoot {
+    background-color: green;
+}
