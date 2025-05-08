@@ -1,0 +1,30 @@
+body {
+    background-color:lightgreen ;
+    font-size: 20px;
+    margin: 15px;
+    padding: 3px;
+    
+}
+
+h1 {
+    color: red;
+    border: solid 10px;
+}
+
+
+img {
+    position: relative;
+    border: solid 7px;
+}
+
+.economico {
+    background-color: yellow;
+    color: black;
+    
+}
+
+.qualidade {
+    background-color: green;
+}
+   
+/**falta complementar, dia de atualização 08/5/25
