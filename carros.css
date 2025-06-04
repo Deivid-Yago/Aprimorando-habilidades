@@ -13,9 +13,9 @@ h1 {
 }
 
 
-img {
-    position: relative;
-    border: solid 7px;
+.carros {
+    text-align: center;
+    margin: 0 auto;
 }
 
 .economico {
@@ -27,9 +27,15 @@ img {
     background-color: green;
 
 }
+
    
 .defeito {
     background-color: brown;
+}
+
+.defeito img {
+    width: 600px;
+    height: 600px;
 }
 
 .tecnologia {
@@ -40,6 +46,11 @@ img {
 .eletricidade {
     border: 5px solid black;
     
+}
+
+.eletricidade img {
+    width: 300px;
+    height: 300px;
 }
 
 #mensagem {
