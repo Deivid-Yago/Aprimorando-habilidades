@@ -1,8 +1,44 @@
+body  {
+    background-color: cadetblue;
+    margin: 50px;
+    padding: 20px 10px;
+}
 td,th {
     border: solid 2px black;
 }
 
 tfoot {
-    background-color: green;
+    background-color: grey;
+}
+
+.imagem {
+   position: relative;
+   translate: ('-50%, -50%');
+   translate: y(-50%);
+   translate: x(-50%);
+}
+
+.tabela {
+    text-align: center;
+    height: 800px;
+    width: 800px;
+}
+
+a {
+    cursor: pointer;
+    margin: 15px;
+    padding: 10px;
+}
+
+a:visited {
+    color: green;
+}
+
+a:active {
+    color: red;
+}
+a:hover {
+    background-color: orange;
+    color: cyan;
 }
 
